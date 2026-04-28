@@ -1,0 +1,16 @@
+.DS_Store
+.worktrees/
+.dist/
+train/
+dev/log/
+__pycache__/
+*.pyc
+.omx/
+.omc/
+.claude/
+.vscode/
+license.dat
+submission/
+**/ckpt/
+**/__pycache__/
+*.zip
